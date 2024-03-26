@@ -4,4 +4,5 @@ def ada():
 
     print(first_name.lower(), last_name.lower())
     print((first_name + " " + last_name).title())
-    print("\t",first_name.upper(), last_name.upper())
+    print(first_name.upper(), last_name.upper())
+    print("\t",first_name.lower(), last_name.lower())
